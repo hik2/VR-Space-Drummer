@@ -1,0 +1,50 @@
+{
+	
+	"lines":
+	[
+		{
+			"key": "ship_code",
+			"line": "Welcome, operator, ship code 1917 online, you can call me The Ship."
+		},
+		{
+			"key": "barrier_level",
+			"line": "Operator, use the screen on your left, it will show you the level of my barrier."
+		},
+		{
+			"key": "star_destroyer",
+			"line": "Careful where you touch operator! You are firing the star destroyer."
+		},
+		{
+			"key": "invalid_request",
+			"line": "Invalid request, you need a security protocol."
+		},
+		{
+			"key": "high_energy_incoming",
+			"line": "High energy target incoming."
+		},
+		{
+			"key": "drum_cannon",
+			"line": "Deploying the drum cannon, standing by."
+		},
+		{
+			"key": "drum_deployed",
+			"line": "Drum cannon deployed."
+		},
+		{
+			"key": "use_drums",
+			"line": "Operator, use the drum to destroy your enemy."
+		},
+		{
+			"key": "warning1",
+			"line": "Warning, energy shield destroyed."
+		},
+		{
+			"key": "barrier_offline",
+			"line": "Warning warning, energy shield offline."
+		},
+		{
+			"key": "emergency1",
+			"line": "Initiating emergency protocol. Initiating emergency protocol."
+		}
+	]
+}
