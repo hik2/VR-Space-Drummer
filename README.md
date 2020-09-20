@@ -17,5 +17,5 @@ The Unity scene is located in ```Assets/_scene/Space_drumer_v1.2_final_build1617
 
 * [Hand tracking version](https://www.youtube.com/watch?v=ZvvkbhE5bCo)
 <p align="center">
-  
+  <img src=demoHandTracking.gif>
 </p>
