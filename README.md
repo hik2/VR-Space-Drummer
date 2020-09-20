@@ -12,7 +12,7 @@ The Unity scene is located in ```Assets/_scene/Space_drumer_v1.2_final_build1617
 ## YouTube Demo Videos
 * [Controller version](https://www.youtube.com/watch?v=I9bjhcij9YI)
 <p align="center">
-  
+  <img src=demoControllers.gif>
 </p>
 
 * [Hand tracking version](https://www.youtube.com/watch?v=ZvvkbhE5bCo)
