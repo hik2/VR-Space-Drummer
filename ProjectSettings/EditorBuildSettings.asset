@@ -6,12 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scene/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 0
-    path: Assets/_scene/Assemble_4.unity
+    path: Assets/Scene/Assemble_4.unity
     guid: c5fd5ab812406ae4b854925f71ba927e
   - enabled: 1
-    path: Assets/_scene/Space_drumer_v1.2_final_build1617.unity
+    path: Assets/Scene/Space_Drumer_FinalBuild.unity
     guid: b3931eee07b41744ab8678ecd52b7a84
   m_configObjects: {}
