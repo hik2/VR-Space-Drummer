@@ -3,10 +3,10 @@ Oculus Quest rhythm game set in space developed during the XR Workshop. Won best
 
 Two modes of interaction - Oculus controllers or hand tracking.
 
-The Unity scene is located in ```Assets/_scene/Space_drumer_v1.2_final_build1617```
+The Unity scene is located in ```Assets/Scene/Space_Drumer_FinalBuild```
 
 ## Built with
-* Unity 2019.3.2.f1
+* Unity 2019.3.2.f1 and updated to 2019.4.12f1
 * Oculus Quest
 
 ## YouTube Demo Videos
