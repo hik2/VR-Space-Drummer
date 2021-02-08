@@ -1,5 +1,5 @@
 # Space-Drummer
-Oculus Quest rhythm game set in space developed during the XR Workshop. Won best game!
+Oculus Quest rhythm game set in space developed during the 2020 XR Workshop. Won best game!
 
 Two modes of interaction - Oculus controllers or hand tracking.
 
